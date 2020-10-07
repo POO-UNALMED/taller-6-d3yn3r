@@ -16,5 +16,8 @@ public class Camioneta extends Vehiculo {
 	public void setCamioneta(boolean volco) {
 		this.volco=volco;
 	}
+	public void setVolco(boolean volco) {
+		this.volco=volco;
+	}
 	
 }
